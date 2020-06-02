@@ -1,1 +1,60 @@
-theme: jekyll-theme-minimal
+layout: sidebar
+style: dark
+
+plugins:
+  - jekyll-octicons
+  - jekyll-github-metadata
+  - jemoji
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+
+projects:
+  sort_by: stars
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 9
+  exclude:
+    archived: false
+    forks: true
+    projects:
+    # - repo-name
+
+social_media:
+  # behance: your_username
+  # dribbble: your_username
+  # facebook: your_username
+  hackerrank: nhoxbypass
+  # instagram: your_username
+  # keybase: your_username
+  linkedin: nhoxbypass
+  # mastodon: your_username
+  medium: nhoxbypass
+  stackoverflow: 5282585
+  # telegram: your_username
+  twitter: nhoxbypass
+  # unsplash: your_username
+  # vk: your_username
+  website: https://iceteaviet.blogspot.com/
+  # youtube: your_username
+
+topics:
+  - name: Android
+    web_url: https://developer.android.com/about
+    image_url: https://upload.wikimedia.org/wikipedia/commons/a/a0/APK_format_icon.png
+
+  - name: Machine Learning
+    web_url: https://www.tensorflow.org/
+    image_url: https://avatars0.githubusercontent.com/u/15658638
+
+  - name: Big Data
+    web_url: https://hadoop.apache.org/
+    image_url: https://pngimage.net/wp-content/uploads/2018/06/hadoop-png-6.png
