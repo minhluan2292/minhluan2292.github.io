@@ -31,30 +31,30 @@ projects:
 social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
-  hackerrank: nhoxbypass
-  # instagram: your_username
+  facebook: minhluan2292
+  hackerrank: minhluan2292
+  instagram: minhluan2292
   # keybase: your_username
-  linkedin: nhoxbypass
+  linkedin: minhluan2292
   # mastodon: your_username
-  medium: nhoxbypass
-  stackoverflow: 5282585
+  # medium: nhoxbypass
+  stackoverflow: 13150367
   # telegram: your_username
-  twitter: nhoxbypass
+  twitter: minhluan2292
   # unsplash: your_username
   # vk: your_username
-  website: https://iceteaviet.blogspot.com/
+  # website: https://iceteaviet.blogspot.com/
   # youtube: your_username
 
-topics:
-  - name: Android
-    web_url: https://developer.android.com/about
-    image_url: https://upload.wikimedia.org/wikipedia/commons/a/a0/APK_format_icon.png
+# topics:
+#   - name: Android
+#     web_url: https://developer.android.com/about
+#     image_url: https://upload.wikimedia.org/wikipedia/commons/a/a0/APK_format_icon.png
 
-  - name: Machine Learning
-    web_url: https://www.tensorflow.org/
-    image_url: https://avatars0.githubusercontent.com/u/15658638
+#   - name: Machine Learning
+#     web_url: https://www.tensorflow.org/
+#     image_url: https://avatars0.githubusercontent.com/u/15658638
 
-  - name: Big Data
-    web_url: https://hadoop.apache.org/
-    image_url: https://pngimage.net/wp-content/uploads/2018/06/hadoop-png-6.png
+#   - name: Big Data
+#     web_url: https://hadoop.apache.org/
+#     image_url: https://pngimage.net/wp-content/uploads/2018/06/hadoop-png-6.png
