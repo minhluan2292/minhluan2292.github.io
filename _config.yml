@@ -46,15 +46,15 @@ social_media:
   # website: https://iceteaviet.blogspot.com/
   # youtube: your_username
 
- topics:
-   - name: Laravel
-     web_url: https://laravel.com/
-     image_url: https://laravel.com/img/logomark.min.svg
+topics:
+  - name: Laravel
+    web_url: https://laravel.com/
+    image_url: https://laravel.com/img/logomark.min.svg
 
-   - name: VueJS
-     web_url: https://vuejs.org/
-     image_url: https://vuejs.org/images/logo.png
+  - name: VueJS
+    web_url: https://vuejs.org/
+    image_url: https://vuejs.org/images/logo.png
 
-   - name: React
-     web_url: https://reactjs.org/
-     image_url: https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg
+  - name: React
+    web_url: https://reactjs.org/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg
