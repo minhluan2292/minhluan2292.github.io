@@ -46,14 +46,14 @@ social_media:
   # website: https://iceteaviet.blogspot.com/
   # youtube: your_username
 
-# topics:
-#   - name: Android
-#     web_url: https://developer.android.com/about
-#     image_url: https://upload.wikimedia.org/wikipedia/commons/a/a0/APK_format_icon.png
+ topics:
+   - name: Laravel
+     web_url: https://laravel.com/
+     image_url: https://laravel.com/img/logomark.min.svg
 
-#   - name: Machine Learning
-#     web_url: https://www.tensorflow.org/
-#     image_url: https://avatars0.githubusercontent.com/u/15658638
+   - name: VueJS
+     web_url: https://vuejs.org/
+     image_url: https://vuejs.org/images/logo.png
 
 #   - name: Big Data
 #     web_url: https://hadoop.apache.org/
