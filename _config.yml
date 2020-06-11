@@ -55,6 +55,6 @@ social_media:
      web_url: https://vuejs.org/
      image_url: https://vuejs.org/images/logo.png
 
-#   - name: Big Data
-#     web_url: https://hadoop.apache.org/
-#     image_url: https://pngimage.net/wp-content/uploads/2018/06/hadoop-png-6.png
+   - name: React
+     web_url: https://reactjs.org/
+     image_url: https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg
