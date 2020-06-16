@@ -45,6 +45,7 @@ social_media:
   # vk: your_username
   # website: 
   # youtube: your_username
+  codingame: 1cfc4110954224b433ce48200ca1bf345162683
 
 topics:
   - name: Laravel
